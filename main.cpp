@@ -9,6 +9,7 @@ struct Player {
     float x, y;
 };
 
+
 struct Bullet {
     float x, y;
     bool isActive;
